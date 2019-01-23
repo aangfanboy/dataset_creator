@@ -10,7 +10,7 @@ Program will resize images.
 
 Well, there is two options. You can use Google Images or Pinterest(recommended).
 
-![Rayla Dataser Creator](https://i.ibb.co/bQHNJct/GUI-withexp.png)
+![Rayla Dataser Creator](https://pasteboard.co/HXOcLxD.png)
 
 # Have Fun!
 
