@@ -10,11 +10,11 @@ Program will resize images.
 
 Well, there is two options. You can use Google Images or Pinterest(recommended).
 
-![Rayla Dataser Creator](https://i.hizliresim.com/0RBdQW.png)
+![Rayla Dataser Creator](https://i.ibb.co/bQHNJct/GUI-withexp.png)
 
 # Have Fun!
 
 ![Rayla Dataser Creator](https://i.ibb.co/tJhh85q/Work-SS.png)
-![Rayla Dataser Creator](https://i.hizliresim.com/ADkaj7.png)
+![Rayla Dataser Creator](https://i.ibb.co/r2hvhS7/Done-SS.png)
 
 
